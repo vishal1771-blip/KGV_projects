@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: ml_project
+Version: 0.0.1
+Author: vishal
+Author-email: vishalkg020@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
